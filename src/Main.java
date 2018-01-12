@@ -61,8 +61,7 @@ public class Main {
         });show1.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                JOptionPane.showMessageDialog(null,ll2);
-            }
+                JOptionPane.showMessageDialog(null,ll2);            }
         });clear.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
